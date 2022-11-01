@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374137831180",
+    "project_id": "skkilyrealcash-3ac9d",
+    "storage_bucket": "skkilyrealcash-3ac9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374137831180:android:c5f95a953dbc7dc798d329",
+        "android_client_info": {
+          "package_name": "com.ludo.bigbash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374137831180-rgpsqlbn85r62i0d0tpcl593vp4rert1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-L3WEU_SCjMsJRaOMREAw52ixRTXIvEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374137831180-rgpsqlbn85r62i0d0tpcl593vp4rert1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
